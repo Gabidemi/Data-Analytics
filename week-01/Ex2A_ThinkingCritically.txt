@@ -1,0 +1,42 @@
+1.) Before doing any other investigation, list two or three questions that this infographic
+and explanation of methodology raise in your mind.
+Answer: 
+A.) How reliable is Google trends for this kind of data?
+B.) Does this data ONLY come from U.S affiliated places?
+
+2.) Where can you find Google Trends search data? Provide the URL
+Answer:
+A.) https://trends.google.com/trends/
+
+3.) What is the highest peak recorded in the line chart for “Interest over time”? What is the lowest dip recorded?
+Answer:
+A.) 100 is the highest
+B.) 64 is the lowest
+
+4.A) What is the highest peak recorded for searches using Hamburger? What is the lowest dip?
+Answer:
+A.) 89 is the highest
+B.) 72 is the lowest
+4.B) What happened to the line for Milkshake? What do the high and low look like now? 
+Answer:
+A.) The line went lower after Hamburger was added and the numbers also decreased a lot
+B.) The highest for Milkshake is now 37 and the lowest is 24
+
+5.) Why did the line for Milkshake change? Hint: Click on the icon next to “Interest over time” for more information about how trend results are displayed.
+Answer:
+A.) I believe the line for milkshake changed because Hamburgers had way more searches over time than Milkshakes, hence a big dip in Milkshake numbers when compared to Hamburgers. This is also factoring into both of them being placed against 100
+
+6.) Do you see any patterns that suggest a relationship between searches for Breakup
+and Hamburger?
+Answer:
+A.) No pattern suggests a relationship because the peaks and lowest are the exact same and are significantly high
+B.) No pattern in breakups and milkshakes either or maybe a very weak one. The values are sort of still the exact same
+
+7.) What does all of this suggest about the reliability of the conclusions reached in the article?
+Answer:
+A.) This suggests that the reliability may be flawed because the google trends data may not show enough correlation to draw those conclusions.
+
+8.) What was the top state by interest for Milkshake?
+Answer:
+A.) North Carolina
+B.) South Dakota
