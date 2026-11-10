@@ -2,7 +2,7 @@
 
 CurrentSavings = float(input("What is your current savings?: "))
 InterestRate = float(input("How much interest rate are you looking at?: "))
-Years = int(72//InterestRate)
+Years = 72//InterestRate
 SavingsTimesTwo = CurrentSavings * 2
 
 print(f"Your current savings is: {CurrentSavings: .2f}")
