@@ -1,4 +1,6 @@
 # Rule of 72
+# Some pitfalls using input here would be not enough directions given on what to type
+# This would then result in errors
 
 CurrentSavings = float(input("What is your current savings?: "))
 InterestRate = float(input("How much interest rate are you looking at?: "))
